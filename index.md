@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Find me on [GitHub](https://github.com/anthonybald), [Twitter](https://www.twitter.com/AnthonyPBald), and [LinkedIn](https://www.linkedin.com/in/anthonybald)!
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
