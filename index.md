@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi there! Thanks for visiting my website. 
+Hi there! Thanks for visiting my website. (Note: still under construction!)
 
 I work primarily at the intersection of economics, data science, and public policy. I use this site to collect my own notes and research, as well as other resources that I find useful.
 
