@@ -9,3 +9,9 @@ linkedin_username: anthonybald
 theme: minima
 minima:
   date_format: "%b %-d, %Y"
+
+header_pages:
+  - index.md
+  - about_me.md
+  - research.md
+  - resources.md
