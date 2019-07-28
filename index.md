@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Welcome
+layout: default
+title: Home
 ---
 
 ![RIPL headshot](/images/RIPL_AB.png)
