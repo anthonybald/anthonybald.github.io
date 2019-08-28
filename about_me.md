@@ -9,4 +9,4 @@ While there, I had the opportunity to work primarily with Drs. Tahir Andrabi and
 
 In July of 2017, I joined Brown University as a Predoctoral Fellow under Dr. Justine Hastings.
 
-This fall, I will start at Harvard as a Ph.D. student in Public Policy.
+I am currently a Ph.D. student in Public Policy at Harvard University.
