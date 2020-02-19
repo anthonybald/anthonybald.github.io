@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Working Papers
 
-The Causal Impact of Removing Children from Abusive and Neglectful Homes (with Eric Chyn, Justine Hastings, and Margarita Machelett). NBER Working Paper #25419. Revised September 2019. _Revision requested, Journal of Political Economy_.
+The Causal Impact of Removing Children from Abusive and Neglectful Homes (with Eric Chyn, Justine Hastings, and Margarita Machelett). NBER Working Paper #25419. Revised September 2019. _Under review_.
 
 #### Abstract:
 

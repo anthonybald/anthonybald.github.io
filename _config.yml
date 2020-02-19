@@ -12,6 +12,6 @@ minima:
 
 header_pages:
   - index.md
-  - about_me.md
+  - about-me.md
   - research.md
   - resources.md
