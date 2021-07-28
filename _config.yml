@@ -33,6 +33,7 @@ exclude:
 
 # Custom vars
 version: 2.1.0
+markdown: kramdown
 sass:
   sass_dir: _sass
   style: :compressed
