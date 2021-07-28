@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
 ---
 
 I graduated from Pomona College in May of 2017 with a Bachelor's degree in Economics.
