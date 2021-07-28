@@ -3,12 +3,10 @@ title: Anthony Bald
 image: images/ripl-ab.png
 description: PhD Candidate
 email: abald@g.harvard.edu
-url: https://anthonybald.com
+url: https://anthonybald.com/
 cv: cv/bald-cv-july-2021.pdf
 
 # Posts
-baseurl: /
-permalink: pretty
 paginate: 5
 author:
   name: Anthony Bald
