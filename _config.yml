@@ -1,17 +1,38 @@
+# Setup
 title: Anthony Bald
+image: images/ripl-ab.png
+description: PhD Candidate
 email: abald@g.harvard.edu
-description: ... find me on social media!
+url: https://anthonybald.com
+cv: cv/bald-cv-july-2021.pdf
 
-twitter_username: AnthonyPBald
-github_username: anthonybald
-linkedin_username: anthonybald
+# Posts
+baseurl: /
+permalink: pretty
+paginate: 5
+author:
+  name: Anthony Bald
+  url: https://anthonybald.com
+  email: abald@g.harvard.edu
 
-theme: minima
-minima:
-  date_format: "%b %-d, %Y"
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
 
-header_pages:
-  - index.md
-  - about-me.md
-  - research.md
-  - resources.md
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+# Custom vars
+version: 2.1.0
+sass:
+  sass_dir: _sass
+  style: :compressed
